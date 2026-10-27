@@ -150,6 +150,7 @@ See the [Theory, Philosophy, and Navel-gazing](https://github.com/MaggieAppleton
 | [Charlie Trochlil](https://blog.charlietrochlil.com) | Maxime's [jekyll template](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll) | Learning, art, online spaces, baking |
 | [Hiran Venugopalan](https://hiran.in/notes) | Obsidian + Jekyll | Design, Branding, Business, Typography, Product |
 | [Vlad Sitalo](https://vlad.roam.garden/) | [Roam Garden](https://roam.garden/) | How to define code readability objectively? Applying SRS to all the things, Building Roam Garden |
+| [Korey Wang Tianru](https://korey2028.tech) | AI PM portfolio, Fitness OS workbench (serving 40+ gym members), and open-source agent skills | [korey2028-prog/resume-claim-guard](https://github.com/korey2028-prog/resume-claim-guard) |
 | [Joel Chan](https://joelchan.roam.garden/) | [Roam Garden](https://roam.garden/) | Knowledge synthesis, Scientific Creativity |
 | [Blue Book](https://lyz-code.github.io/blue-book/) | MkDocs | Python, DevOps, life automation, health, art, ...|
 | [Oshyan Greene](https://garden.oshyan.com) | Discourse | Productivity, Digital Gardening, Ideas, Reviews, and Recommendations |
